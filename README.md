@@ -1,6 +1,6 @@
 # OTPM Yadi. Browser Extension
 
-## Update v2.1:
+## Update v1.0:
 Memperbaiki kode untuk menghindari window browser minimize setelah edit dan tambah akun manual
 
 ## 📖 Gambaran Umum
@@ -68,6 +68,7 @@ Selalu simpan master password Anda di password manager yang aman atau tulis di t
 * Jika ekstensi dihapus atau data browser ter-reset, data OTP akan hilang kecuali sudah diekspor manual.
 * Penulis ekstensi tidak bertanggung jawab atas kerugian, kebocoran data, atau penyalahgunaan yang timbul dari penggunaan ekstensi ini.
 * Dengan menggunakan ekstensi ini, pengguna menyatakan menanggung segala risiko sendiri.
+
 
 
 
